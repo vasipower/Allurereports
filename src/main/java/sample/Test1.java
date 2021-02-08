@@ -24,11 +24,6 @@ public class Test1 {
 		int a = 1;
 
 		Assert.assertEquals(a, 11, "Your debug message that you want to display in case of failure");
-
-//	if(a==11) {
-//	System.out.println("Welcome to allure-1233");
-//	
-//	}
 	}
 
 }
